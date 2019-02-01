@@ -1,0 +1,33 @@
+{
+  "name": "gh-conf-constants",
+  "version": "1.0.0",
+  "description": "Constants for gh-conf",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-conf/gh-conf-constants.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "keywords": [
+    "constants",
+    "gh-conf",
+    "conf",
+    "github-config",
+    "github"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh-conf/gh-conf-constants/issues"
+  },
+  "homepage": "https://github.com/gh-conf/gh-conf-constants#readme"
+}
