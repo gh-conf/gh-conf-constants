@@ -1,16 +1,11 @@
 # gh-conf-constants
 
-Constants for gh-conf
-
-
 [![Build Status](https://travis-ci.com/gh-conf/gh-conf-constants.svg?branch=master)](https://travis-ci.com/gh-conf/gh-conf-constants)
-[![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/commits/master)
 
 
-It reads the github config file and returns it contents.
-It needs respository path as input to read the config.
+Constants for gh-conf.
 
 > Give us a :star: if you like our work :heart:
 
