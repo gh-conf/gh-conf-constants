@@ -23,9 +23,9 @@ $ npm install @gh-conf/gh-conf-constants
 ## Usage
 
 ```javascript
-const { GH_URLS } = require('@gh-conf/gh-conf-constants');
+const { GH_PATH } = require('@gh-conf/gh-conf-constants');
 
-console.log(GH_URLS['CONFIG'])
+console.log(GH_PATH['CONFIG'])
 // Output
 // .git/config
 
