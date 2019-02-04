@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.com/gh-conf/gh-conf-constants.svg?branch=master)](https://travis-ci.com/gh-conf/gh-conf-constants)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/commits/master)
+[![LICENSE](https://img.shields.io/npm/l/@gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/LICENSE)
+
 
 
 Constants for gh-conf.
