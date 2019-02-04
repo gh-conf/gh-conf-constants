@@ -5,6 +5,7 @@
 [![Commit](https://img.shields.io/github/last-commit/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/commits/master)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants)
 [![LICENSE](https://img.shields.io/npm/l/@gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/gh-conf-constants.svg)](https://www.npmjs.com/package/@gh-conf/gh-conf-constants)
 
 Constants for gh-conf.
 
