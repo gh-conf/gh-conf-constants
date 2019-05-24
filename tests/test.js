@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 
-const { GH_API, GH_PATH, GH_TEMPLATES } = require('../index');
+const { GH_API, GH_GENERAL, GH_PATH, GH_TEMPLATES } = require('../index');
 
 
 describe('validates path constants', () => {
@@ -24,5 +24,11 @@ describe('validates api constants', () => {
 describe('validates templates constants', () => {
   it('should have corrent template details', () => {
     expect(GH_TEMPLATES['HOF_TEMPLATE']).to.equal('<a href="https://github.com/{username}"><img src="https://github.com/{username}.png" width="30" /></a>');
+  });
+});
+
+describe('validates general constants', () => {
+  it('should have origin key constant', () => {
+    expect(GH_GENERAL['ORIGIN_KEY']).to.equal('remote "origin"');
   });
 });
