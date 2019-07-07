@@ -14,7 +14,7 @@ describe('validates path constants', () => {
 
 describe('validates api constants', () => {
   it('should have correct repo details', () => {
-    expect(GH_API['REPO_DETAILS']).to.equal('https://api.github.com/repos/{username}/{repostiory}');
+    expect(GH_API['REPO_DETAILS']).to.equal('https://api.github.com/repos/{username}/{repository}');
   });
   it('should have correct contributors url', () => {
     expect(GH_API['GITHUB_CONTRIBUTORS']).to.equal('https://api.github.com/repos/{username}/{repository}/contributors');
