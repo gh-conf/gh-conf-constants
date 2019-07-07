@@ -1,6 +1,6 @@
 {
   "name": "@gh-conf/gh-conf-constants",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Constants for gh-conf",
   "main": "index.js",
   "directories": {
