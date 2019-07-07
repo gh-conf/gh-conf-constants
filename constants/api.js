@@ -1,5 +1,5 @@
 const api = {
-  'REPO_DETAILS': 'https://api.github.com/repos/{username}/{repostiory}',
+  'REPO_DETAILS': 'https://api.github.com/repos/{username}/{repository}',
   'GITHUB_CONTRIBUTORS': 'https://api.github.com/repos/{username}/{repository}/contributors',
   'GITHUB_REPO': 'https://github.com/{username}/{repository}'
 };
