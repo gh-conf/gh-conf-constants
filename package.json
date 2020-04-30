@@ -1,6 +1,6 @@
 {
   "name": "@gh-conf/gh-conf-constants",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Constants for gh-conf",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^7.1.2"
   },
   "keywords": [
     "constants",
