@@ -1,6 +1,6 @@
 # gh-conf-constants
 
-[![Build Status](https://travis-ci.com/gh-conf/gh-conf-constants.svg?branch=master)](https://travis-ci.com/gh-conf/gh-conf-constants)
+[![Build](https://github.com/gh-conf/gh-conf-constants/actions/workflows/nodejs.yml/badge.svg)](https://github.com/gh-conf/gh-conf-constants/actions/workflows/nodejs.yml)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants/commits/master)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/gh-conf-constants.svg)](https://github.com/gh-conf/gh-conf-constants)
