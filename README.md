@@ -42,9 +42,3 @@ You can log any issues or suggestion related to this library [here](https://gith
 
 Read our contributing [guide](CONTRIBUTING.md) on getting started with contributing to the codebase
 
-
-## Contributors
-
-Thank you to all the contributors who have helped us in making this project better 🙌
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/omkarshelar"><img src="https://github.com/omkarshelar.png" width="30" /></a><a href="https://github.com/michaelymo"><img src="https://github.com/michaelymo.png" width="30" /></a><a href="https://github.com/mshah12"><img src="https://github.com/mshah12.png" width="30" /></a>
